@@ -1,0 +1,6 @@
+{
+  "name": "OpenTickets - Elegant Live Events & Ticketing",
+  "description": "Minimalist dark mode theme redesign for live events, ticket booking, and attendee dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
